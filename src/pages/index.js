@@ -6,7 +6,7 @@ import Scroll from '../components/Scroll';
 import Footer from '../components/Footer';
 import Social from '../components/Social';
 
-import demo1 from '../assets/images/demo-screen-1.jpg';
+import demo1 from '../assets/images/giver-shot.jpeg';
 import gplay from '../assets/images/google-play-badge.svg';
 import astore from '../assets/images/app-store-badge.svg';
 
@@ -20,8 +20,7 @@ const IndexPage = () => (
           <div className="col-lg-7 my-auto">
             <div className="header-content mx-auto">
               <h1 className="mb-5">
-                New Age is an gatsby starter for app landing page that will help
-                you beautifully showcase your new mobile app, or anything else!
+                Giver is a new way to make payments with your friends! No more credit cards.
               </h1>
               <Scroll type="id" element="download">
                 <a href="#download" className="btn btn-outline btn-xl">
@@ -51,7 +50,7 @@ const IndexPage = () => (
         <div className="row">
           <div className="col-md-8 mx-auto">
             <h2 className="section-heading">
-              Discover what all the buzz is about!
+              Discover a new way to make payments!
             </h2>
             <p>
               Our app is available on any mobile device! Download now to get
@@ -98,7 +97,7 @@ const IndexPage = () => (
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-screen-smartphone text-primary"></i>
-                    <h3>Device Mockups</h3>
+                    <h3>Crowd payments</h3>
                     <p className="text-muted">
                       Ready to use HTML/CSS device mockups, no Photoshop
                       required!
@@ -108,7 +107,7 @@ const IndexPage = () => (
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-camera text-primary"></i>
-                    <h3>Flexible Use</h3>
+                    <h3>Easy payments</h3>
                     <p className="text-muted">
                       Put an image, video, animation, or anything else in the
                       screen!
@@ -130,7 +129,7 @@ const IndexPage = () => (
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-lock-open text-primary"></i>
-                    <h3>Open Source</h3>
+                    <h3>No more credit cards</h3>
                     <p className="text-muted">
                       Since this theme is MIT licensed, you can use it
                       commercially!
@@ -150,7 +149,7 @@ const IndexPage = () => (
           <h2>
             Stop waiting.
             <br />
-            Start building.
+            Start paying.
           </h2>
           <Scroll type="id" element="contact">
             <a href="#contact" className="btn btn-outline btn-xl">
