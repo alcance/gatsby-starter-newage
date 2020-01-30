@@ -72,7 +72,7 @@ const IndexPage = () => (
     <section className="features" id="features">
       <div className="container">
         <div className="section-heading text-center">
-          <h2>Unlimited Features, Unlimited Fun</h2>
+          <h2>Unlimited Payments, Unlimited Fun</h2>
           <p className="text-muted">
             Check out what you can do with this app theme!
           </p>
@@ -107,7 +107,7 @@ const IndexPage = () => (
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-camera text-primary"></i>
-                    <h3>Easy payments</h3>
+                    <h3>Add your Friends</h3>
                     <p className="text-muted">
                       Put an image, video, animation, or anything else in the
                       screen!
